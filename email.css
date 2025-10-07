@@ -1,0 +1,33 @@
+body{
+    background-image: url("email.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px ;
+}
+.container{
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px aqua;
+    width: 1000px;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+input[type="text"], input[type="password"], input[type="email"]{
+    width: 90%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+button{
+    width: 95%;
+    padding: 12px;
+    background-color: violet;
+    color: black;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}

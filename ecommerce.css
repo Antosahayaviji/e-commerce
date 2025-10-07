@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    background-image: url("dgif.gif");
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F08787;
+}
+ul  li a{
+    float: left;
+}
+ul  li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul li a:hover{
+    background-color: cadetblue;
+}
+h1{
+    color: #F90716;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    text-align: center;
+    font-size: 90px;
+    margin-top: 300px;
+}

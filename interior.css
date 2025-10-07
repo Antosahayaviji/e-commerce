@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    background-image: url("d7.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+    overflow: hidden;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 140px;
+    background-image: url("d8.jpg");
+    position: fixed;
+    height: 1000%;
+    overflow: auto;
+}
+li a{
+    display: block;
+    color: black;
+    padding: 25px 16px;
+    text-decoration: none;
+    font-size: 18px;
+}
+li a:hover{
+    background-color: antiquewhite;
+    color: black;
+}
+h1{
+    color: white;
+    text-shadow: 2px 3px 3px black;
+    text-align: center;
+}
+.abc{
+    margin-top: 150px;
+    margin-left: 550px;
+    padding: 10px;
+    border-style:groove;
+    border-width: 3px;
+    width: 500px;
+    height: 500px;
+    border-color: black;
+    color: #3338A0;
+    font-size: 25px;
+    text-align: center;
+    background-image: url(design1.jpg);
+    background-repeat: no-repeat;
+    background-size: 550px 550px;
+}
