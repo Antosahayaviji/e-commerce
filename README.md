@@ -14,7 +14,7 @@ E-commerce platforms can offer personalized product recommendations and shopping
 It enables 24/7 shopping, faster transactions, better price comparison, and a more scalable, flexible business model.
 Utilize digital tools 📝 to track and manage inventory in real time. 
 
- Contents:
+ 📑 Contents:
 
 This e-commerce website contains three different types of interior design like Wall Design 🚪, Furniture 🪑 and Light Lamp 💡.
 The products available in the website have a warrenty report about the detailed description about the product.
