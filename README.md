@@ -23,4 +23,4 @@ A description about the design and the amount details 💰 are provided.
 You can mail your queries and the team will send you a detail description and payment details.
 Your order 📦 will be delivered to your location.
  
- For reference access this website: 🔗 https://neocities.org/site_files/text_editor?filename=Viji%2FBasics%2Fecommerce.html
+ For reference access this website: 🔗 https://latha16.neocities.org/Viji/Basics/ecommerce
